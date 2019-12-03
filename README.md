@@ -5,7 +5,28 @@ The course notes about Stanford CS234 Reinforcement Learning Winter 2019
 * [CS234: Reinforcement Learning Winter 2019](http://web.stanford.edu/class/cs234/schedule.html)
 * [video playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
+Book
+
+* [Sutton & Barto Book: Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+  * [SuttonBartoIPRLBook2ndEd.pdf](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+
 ## Schedule
+
+| Week           | Lectures                                                                | Assignments |
+| -------------- | ----------------------------------------------------------------------- | ----------- |
+| 2019/12/2~12/8 | [Introduction to RL](#lecture-1-introduction-to-reinforcement-learning) |             |
+
+## Lecture
+
+### Lecture 1: Introduction to Reinforcement Learning
+
+* [slides](CourseMaterials/lecture/lecture1/lecture1.pdf)
+* [notes](CourseMaterials/lecture/lecture1/lnotes_intro.pdf)
+* Additional Materials
+  * High level introduction: SB (Sutton and Barton) Chp 1
+  * [Linear Algebra Review](CourseMaterials/additional/cs229-linalg.pdf)
+  * [Probability Review](CourseMaterials/additional/cs229-prob.pdf)
+  * [python tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
 ## Assignment
 
