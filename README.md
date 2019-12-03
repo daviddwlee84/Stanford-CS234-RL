@@ -12,9 +12,9 @@ Book
 
 ## Schedule
 
-| Week           | Lectures                                                                | Assignments |
-| -------------- | ----------------------------------------------------------------------- | ----------- |
-| 2019/12/2~12/8 | [Introduction to RL](#lecture-1-introduction-to-reinforcement-learning) |             |
+| Week           | Lectures                                                                                                                                           | Assignments                   |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| 2019/12/2~12/8 | [Introduction to RL](#lecture-1-introduction-to-reinforcement-learning), [More Introduction](#lecture-2-how-to-act-given-know-how-the-world-works) | [Assignment 1](#assignment-1) |
 
 ## Lecture
 
@@ -27,6 +27,19 @@ Book
   * [Linear Algebra Review](CourseMaterials/additional/cs229-linalg.pdf)
   * [Probability Review](CourseMaterials/additional/cs229-prob.pdf)
   * [python tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+
+### Lecture 2: How to act given know how the world works
+
+> * Tabular setting
+> * Markov processes
+> * Policy search
+> * Policy iteration
+> * Value iteration
+
+* [slides](CourseMaterials/lecture/lecture2/lecture2.pdf)
+* [notes](CourseMaterials/lecture/lecture2/lnotes2.pdf)
+* Additional Materials
+  * SB (Sutton and Barton) Chp 3, 4.1-4.4
 
 ## Assignment
 
